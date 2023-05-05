@@ -12,11 +12,11 @@ passwordText.value = password;
 
 // Generate password 
 function generatePassword() {
-var length = parseInt(prompt("How long do you want your password? (Choose between 8 and 50)"));
+var length = parseInt(prompt("How long do you want your password? (Choose between 8 and 128)"));
 
 // Input is a number between 8 and 50
-if (isNaN(length) || length < 8 || length > 50) {
-alert("Please choose a valid number between 8 and 50.");
+if (isNaN(length) || length < 8 || length > 128) {
+alert("Please choose a valid number between 8 and 128.");
 return "";
 }
 
