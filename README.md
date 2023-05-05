@@ -23,7 +23,7 @@ THEN the password is either displayed in an alert or written to the page
 
 ## Deployed Application Link
 
-
+https://massnir98.github.io/password-generator-98/
 
 ## Screenshot
 
@@ -34,3 +34,6 @@ THEN the password is either displayed in an alert or written to the page
 ![screenshot 5](./Images/screenshot5.jpg)
 ![screenshot 6](./Images/screenshot6.jpg)
 
+## Additional Info
+
+Project done by Renan Massini partnered with Felipe Ursini
